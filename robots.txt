@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lucidmeldung.dokufile.com/sitemap.xml
